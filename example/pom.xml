@@ -12,6 +12,10 @@
     <artifactId>example</artifactId>
 
     <dependencies>
-
+        <dependency>
+            <groupId>org.amber</groupId>
+            <artifactId>common</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 </project>
