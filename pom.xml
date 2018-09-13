@@ -11,6 +11,7 @@
     <modules>
         <module>common</module>
         <module>example</module>
+        <module>ml</module>
     </modules>
 
     <build>
